@@ -33,7 +33,7 @@ https://www.bilibili.com/video/BV1Bp4y1379L 19
 黑马 react		https://www.bilibili.com/video/BV1ZB4y1Z7o8	69
 
 MMD
-blender	13
+blender	https://www.bilibili.com/video/BV14u41147YH?spm_id_from=333.788.videopod.episodes&vd_source=e63211f2adc65ff2ab318ce5a0db9061&p=6
 
 PR https://www.bilibili.com/video/BV1Zh41137r1	61
 c++	https://www.bilibili.com/video/BV1et411b73Z	87
